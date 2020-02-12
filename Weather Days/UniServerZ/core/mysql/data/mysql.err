@@ -1,0 +1,122 @@
+2019-05-20 09:29:45 8784 [Note] Plugin 'FEDERATED' is disabled.
+2019-05-20 09:29:45 8784 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-05-20 09:29:45 8784 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-05-20 09:29:45 8784 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-20 09:29:45 8784 [Note] InnoDB: Memory barrier is not used
+2019-05-20 09:29:45 8784 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-05-20 09:29:45 8784 [Note] InnoDB: Not using CPU crc32 instructions
+2019-05-20 09:29:45 8784 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2019-05-20 09:29:45 8784 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-20 09:29:45 8784 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-05-20 09:29:46 8784 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-05-20 09:29:46 8784 [Note] InnoDB: Waiting for purge to start
+2019-05-20 09:29:46 8784 [Note] InnoDB: 5.6.35 started; log sequence number 1771182
+2019-05-20 09:29:46 8784 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 6cc3be9f-7ad9-11e9-83f0-001517cd304c.
+2019-05-20 09:29:46 8784 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-05-20 09:29:46 8784 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-05-20 09:29:46 8784 [Note] Server socket created on IP: '127.0.0.1'.
+2019-05-20 09:29:46 8784 [Note] Event Scheduler: Loaded 0 events
+2019-05-20 09:29:46 8784 [Note] E:\usb\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-05-20 12:54:04 8160 [Note] Plugin 'FEDERATED' is disabled.
+2019-05-20 12:54:04 8160 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-05-20 12:54:04 8160 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-05-20 12:54:04 8160 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-20 12:54:04 8160 [Note] InnoDB: Memory barrier is not used
+2019-05-20 12:54:04 8160 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-05-20 12:54:04 8160 [Note] InnoDB: Not using CPU crc32 instructions
+2019-05-20 12:54:04 8160 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2019-05-20 12:54:04 8160 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-20 12:54:04 8160 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-05-20 12:54:04 8160 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 1799649 in the ib_logfiles!
+2019-05-20 12:54:04 8160 [Note] InnoDB: Database was not shutdown normally!
+2019-05-20 12:54:04 8160 [Note] InnoDB: Starting crash recovery.
+2019-05-20 12:54:04 8160 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-05-20 12:54:04 8160 [Note] InnoDB: Restoring possible half-written data pages 
+2019-05-20 12:54:04 8160 [Note] InnoDB: from the doublewrite buffer...
+2019-05-20 12:54:05 8160 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-05-20 12:54:05 8160 [Note] InnoDB: Waiting for purge to start
+2019-05-20 12:54:05 8160 [Note] InnoDB: 5.6.35 started; log sequence number 1799649
+2019-05-20 12:54:05 8160 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-05-20 12:54:05 8160 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-05-20 12:54:05 8160 [Note] Server socket created on IP: '127.0.0.1'.
+2019-05-20 12:54:05 8160 [Note] Event Scheduler: Loaded 0 events
+2019-05-20 12:54:05 8160 [Note] E:\usb\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-05-20 13:19:10 1148 [Note] Plugin 'FEDERATED' is disabled.
+2019-05-20 13:19:10 1148 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-05-20 13:19:10 1148 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-05-20 13:19:10 1148 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-20 13:19:10 1148 [Note] InnoDB: Memory barrier is not used
+2019-05-20 13:19:10 1148 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-05-20 13:19:10 1148 [Note] InnoDB: Not using CPU crc32 instructions
+2019-05-20 13:19:10 1148 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2019-05-20 13:19:10 1148 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-20 13:19:10 1148 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-05-20 13:19:10 1148 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 1799659 in the ib_logfiles!
+2019-05-20 13:19:10 1148 [Note] InnoDB: Database was not shutdown normally!
+2019-05-20 13:19:10 1148 [Note] InnoDB: Starting crash recovery.
+2019-05-20 13:19:10 1148 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-05-20 13:19:10 1148 [Note] InnoDB: Restoring possible half-written data pages 
+2019-05-20 13:19:10 1148 [Note] InnoDB: from the doublewrite buffer...
+2019-05-20 13:19:11 1148 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-05-20 13:19:11 1148 [Note] InnoDB: Waiting for purge to start
+2019-05-20 13:19:11 1148 [Note] InnoDB: 5.6.35 started; log sequence number 1799659
+2019-05-20 13:19:11 1148 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-05-20 13:19:11 1148 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-05-20 13:19:11 1148 [Note] Server socket created on IP: '127.0.0.1'.
+2019-05-20 13:19:11 1148 [Note] Event Scheduler: Loaded 0 events
+2019-05-20 13:19:11 1148 [Note] Execution of init_file 'E:\usb\UniServerZ\core\mysql\bin\mysql-init.txt' started.
+2019-05-20 13:19:11 1148 [Note] Execution of init_file 'E:\usb\UniServerZ\core\mysql\bin\mysql-init.txt' ended.
+2019-05-20 13:19:11 1148 [Note] E:\usb\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-05-20 13:19:18 8028 [Note] Plugin 'FEDERATED' is disabled.
+2019-05-20 13:19:18 8028 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-05-20 13:19:18 8028 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-05-20 13:19:18 8028 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-20 13:19:18 8028 [Note] InnoDB: Memory barrier is not used
+2019-05-20 13:19:18 8028 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-05-20 13:19:18 8028 [Note] InnoDB: Not using CPU crc32 instructions
+2019-05-20 13:19:18 8028 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2019-05-20 13:19:18 8028 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-20 13:19:18 8028 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-05-20 13:19:18 8028 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 1799659 in the ib_logfiles!
+2019-05-20 13:19:18 8028 [Note] InnoDB: Database was not shutdown normally!
+2019-05-20 13:19:18 8028 [Note] InnoDB: Starting crash recovery.
+2019-05-20 13:19:18 8028 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-05-20 13:19:18 8028 [Note] InnoDB: Restoring possible half-written data pages 
+2019-05-20 13:19:18 8028 [Note] InnoDB: from the doublewrite buffer...
+2019-05-20 13:19:19 8028 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-05-20 13:19:19 8028 [Note] InnoDB: Waiting for purge to start
+2019-05-20 13:19:19 8028 [Note] InnoDB: 5.6.35 started; log sequence number 1799659
+2019-05-20 13:19:19 8028 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-05-20 13:19:19 8028 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-05-20 13:19:19 8028 [Note] Server socket created on IP: '127.0.0.1'.
+2019-05-20 13:19:19 8028 [Note] Event Scheduler: Loaded 0 events
+2019-05-20 13:19:19 8028 [Note] E:\usb\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2019-05-20 13:31:47 11740 [Note] Plugin 'FEDERATED' is disabled.
+2019-05-20 13:31:47 11740 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2019-05-20 13:31:47 11740 [Note] InnoDB: The InnoDB memory heap is disabled
+2019-05-20 13:31:47 11740 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2019-05-20 13:31:47 11740 [Note] InnoDB: Memory barrier is not used
+2019-05-20 13:31:47 11740 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2019-05-20 13:31:47 11740 [Note] InnoDB: Not using CPU crc32 instructions
+2019-05-20 13:31:47 11740 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2019-05-20 13:31:47 11740 [Note] InnoDB: Completed initialization of buffer pool
+2019-05-20 13:31:47 11740 [Note] InnoDB: Highest supported file format is Barracuda.
+2019-05-20 13:31:47 11740 [Note] InnoDB: The log sequence numbers 1771182 and 1771182 in ibdata files do not match the log sequence number 1799788 in the ib_logfiles!
+2019-05-20 13:31:47 11740 [Note] InnoDB: Database was not shutdown normally!
+2019-05-20 13:31:47 11740 [Note] InnoDB: Starting crash recovery.
+2019-05-20 13:31:47 11740 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2019-05-20 13:31:47 11740 [Note] InnoDB: Restoring possible half-written data pages 
+2019-05-20 13:31:47 11740 [Note] InnoDB: from the doublewrite buffer...
+2019-05-20 13:31:48 11740 [Note] InnoDB: 128 rollback segment(s) are active.
+2019-05-20 13:31:48 11740 [Note] InnoDB: Waiting for purge to start
+2019-05-20 13:31:48 11740 [Note] InnoDB: 5.6.35 started; log sequence number 1799788
+2019-05-20 13:31:48 11740 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2019-05-20 13:31:48 11740 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2019-05-20 13:31:48 11740 [Note] Server socket created on IP: '127.0.0.1'.
+2019-05-20 13:31:48 11740 [Note] Event Scheduler: Loaded 0 events
+2019-05-20 13:31:48 11740 [Note] E:\usb\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.6.35'  socket: ''  port: 3306  MySQL Community Server (GPL)

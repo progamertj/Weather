@@ -1,0 +1,30 @@
+
+html {
+    background-color:white;
+}
+
+h1 {
+    color:;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+    text-allign : justify;
+
+
+
+.min{
+ display: inline-block;
+width:100%;
+}  
+.max{
+ display: inline-block;
+}  
+.search {
+ display: inline-block;
+}
+
+
+input {
+    width :100%;
+        
+        
+    }
